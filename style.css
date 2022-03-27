@@ -1,0 +1,53 @@
+    body {
+        background-image: url("img/cover.webp");
+        image-resolution: from-image;
+        image-resolution: 300dpi;
+        image-rendering: crisp-edges;
+        background-color: white;
+        background-repeat: no-repeat;
+        background-size: 1350px 250px;
+    }
+    
+    h1 {
+        color: black;
+        font-family: 'Calibre';
+        font-size: xx-large;
+        text-indent: 400px;
+        padding: 4px;
+        margin: 4px;
+    }
+    
+    h2 {
+        color: black;
+        font-family: 'Calibre';
+        font-size: 150%;
+        text-indent: 400px;
+        padding: 1px;
+        margin: 1px;
+    }
+    
+    h3 {
+        color: black;
+        font-family: 'Calibre';
+        font-size: 130%;
+        text-indent: 1100px;
+    }
+    
+    h4 {
+        color: black;
+        font-family: 'Calibre';
+        font-size: medium;
+    }
+    
+    h5 {
+        color: black;
+        font-family: 'Calibre';
+        font-size: x-large;
+        text-indent: 45px;
+        padding: 10px;
+        margin: 10px;
+    }
+    
+    mark {
+        background-color: whitesmoke;
+    }
